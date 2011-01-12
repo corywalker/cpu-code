@@ -1,0 +1,1 @@
+This project contains Logisim models of the CPUs described in CODE. The CPUs get more complex as the book progresses. p_231 is the most sophisticated processor in the book, adding conditional jumps. While the other processors work fine, this processor has a serious problem due to a race condition in the conditional jump handler. I will have to look into it later.
